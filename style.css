@@ -5,9 +5,17 @@ h1{
  font-size: 50px;
 
  }
+ p{
+  text-align: justify;
+ }
  .birds-color{
   color: rgb(10, 186, 192);
  }
  section{
   display: flex;
  }
+ .div-sec{
+  width: 50%;
+ }
+
+  
