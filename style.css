@@ -8,3 +8,6 @@ h1{
  .birds-color{
   color: rgb(10, 186, 192);
  }
+ section{
+  display: flex;
+ }
