@@ -1,3 +1,10 @@
-p{
-  color: blue;
+body{
+  font-family:'poppins',sans-serif;
 }
+h1{
+ font-size: 50px;
+
+ }
+ .birds-color{
+  color: rgb(10, 186, 192);
+ }
